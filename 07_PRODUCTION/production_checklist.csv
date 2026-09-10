@@ -1,0 +1,16 @@
+﻿ID,Этап,Задача,Папка,Статус
+01,Concept Art,Сгенерировать 9 ключевых кадров,02_CONCEPT_ART/generated_images,TODO
+02,Object Sheets,Сгенерировать 3 листа объектов,03_OBJECT_SHEETS/generated_images,TODO
+03,Blender Props,Смоделировать пропы по 3 object sheets,04_BLENDER_ENV/generated_models,TODO
+04,Bunker Kit,Сделать модульный коридор + machinery room,04_BLENDER_ENV/generated_models,TODO
+05,Blast Door,Сделать hero chamber и анимируемую дверь,04_BLENDER_ENV/generated_models,TODO
+06,Wasteland Kit,Terrain + rocks + highway,04_BLENDER_ENV/generated_models,TODO
+07,Gas Station,Станция + гараж + arena dressing,04_BLENDER_ENV/generated_models,TODO
+08,Vehicle,Машина для финального побега,04_BLENDER_ENV/generated_models,TODO
+09,Distant World,Pylons + skyline + horizon,04_BLENDER_ENV/generated_models,TODO
+10,Export,Экспортировать финальные ассеты в GLB,04_BLENDER_ENV/export_glb,TODO
+11,Godot Graybox,Собрать полный playable маршрут,06_GODOT_STARTER,TODO
+12,Gameplay,Repair loop + combat + engine timer,06_GODOT_STARTER,TODO
+13,Art Pass,Свет + fog + particles + decals,06_GODOT_STARTER,TODO
+14,Cinematics,Door reveal + escape + sunset,06_GODOT_STARTER,TODO
+15,Audio/Credits,"Звук, музыка, титры",06_GODOT_STARTER,TODO

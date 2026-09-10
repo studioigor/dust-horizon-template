@@ -1,0 +1,11 @@
+[gd_scene format=3]
+
+[node name="Main" type="Node3D"]
+
+[node name="Sun" type="DirectionalLight3D" parent="."]
+rotation_degrees = Vector3(-45, -25, 0)
+shadow_enabled = true
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1,0,0,0,1,0,0,0,1,0,1.7,5)
+current = true

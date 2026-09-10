@@ -1,0 +1,66 @@
+# Operating system metadata
+.DS_Store
+._*
+.AppleDouble/
+Thumbs.db
+Desktop.ini
+
+# Personal editor and AI assistant settings/history
+.idea/
+.vscode/
+.cursor/
+.codex/
+.claude/
+.aider*
+*.code-workspace
+
+# Secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+!.env.sample
+*.local
+*.local.*
+secrets/
+credentials/
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+*.jks
+id_rsa
+id_ed25519
+
+# Godot generated cache and local export credentials/settings
+.godot/
+.import/
+.mono/
+export_credentials.cfg
+export_presets.cfg
+override.cfg
+
+# Build/export output (keep source .blend files and exported .glb assets)
+build/
+builds/
+dist/
+exports/
+
+# Blender backups, temporary files and logs
+*.blend[0-9]*
+*.bak
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+*.log
+
+# Optional tooling dependencies and caches
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+.pytest_cache/

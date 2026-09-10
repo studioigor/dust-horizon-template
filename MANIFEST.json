@@ -1,0 +1,12 @@
+{
+  "project": "Пыльный горизонт",
+  "version": "1.0",
+  "contents": {
+    "concept_art_prompts": 9,
+    "object_sheet_prompts": 3,
+    "blender_environment_prompts": 14,
+    "godot_master_prompt": 1,
+    "godot_starter": true,
+    "production_checklist": true
+  }
+}
